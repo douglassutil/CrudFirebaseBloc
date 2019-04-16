@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142613925168",
+    "firebase_url": "https://fir-logincadastro.firebaseio.com",
+    "project_id": "fir-logincadastro",
+    "storage_bucket": "fir-logincadastro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142613925168:android:2afc2cbb2b4b3171",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142613925168-sbub4qu4glrglfprrf7ehpcngpjmef3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywPn0VzxUDmcZCcA7hLYljIKUuJy210o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142613925168-sbub4qu4glrglfprrf7ehpcngpjmef3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
